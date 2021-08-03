@@ -8,7 +8,7 @@ I can always get better at making my codes DRY.
 
 ## JS Concepts covered
 
-For loops
-AddEventListener() method
-Math methods(Math.random() , Math.floor())
-Arrays
+1. For loops
+2. AddEventListener() method
+3. Math methods(Math.random() , Math.floor())
+4. Arrays
